@@ -1,0 +1,28 @@
+body{
+    background-color: #6D5D6E;
+    color: #fff;
+    padding:  0 20% 5% 20%;
+    text-align: center;
+}
+.title{
+    font-family: 'Bangers', cursive;
+    font-weight: 900;
+    font-size: 15vh;
+    letter-spacing: 0.5rem;
+    margin: 2rem 0;
+}
+.player-name{
+    font-family: 'Alkatra', cursive;
+    font-weight: 600;
+    font-size: 3rem;
+    margin: 2rem auto;
+}
+.name {
+    font-family: 'Alkatra', cursive;
+    font-size: 1.5rem;
+    margin-top: 3rem;
+}
+.dice-img-1, .dice-img-2 {
+    width: 300px;
+    border-radius: 20px;
+}
